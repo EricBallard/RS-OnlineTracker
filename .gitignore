@@ -1,0 +1,4 @@
+# dependencies
+/src/server/node_modules
+/src/server/package-lock.json
+/src/client/node_modules
